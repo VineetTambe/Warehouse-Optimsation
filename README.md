@@ -1,4 +1,4 @@
-# SBSPS-Challenge-633-Warehouse-optimisation
+# Warehouse-Optimisation
 
 Please view the documentation pdf and demo video for further information
 
